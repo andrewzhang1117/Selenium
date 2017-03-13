@@ -1,4 +1,3 @@
-Note: Alex, I created this repo and hope this might be a little bit convienent when we have next meeting, thanks!
 
 
 Part One: Practice the Selenium web driver with python unit test: Files included:
